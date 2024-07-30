@@ -1,0 +1,3 @@
+Name: Daizy, Age: 30, Salary: 1500000
+Name: Janvi, Age: 25, Salary: 165000
+Name: jia, Age: 35, Salary: 1250000
